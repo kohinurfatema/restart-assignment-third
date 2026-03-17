@@ -15,12 +15,4 @@ import iconReview from './icon-review.png'
 export const demoImages = [img1, img2, img3, img4, img5, img6]
 export const getAppImage = (id) => demoImages[(id - 1) % 6]
 
-export {
-  logoImg,
-  heroImg,
-  appErrorImg,
-  error404Img,
-  iconDownloads,
-  iconRatings,
-  iconReview,
-}
+export { logoImg, heroImg, appErrorImg, error404Img, iconDownloads, iconRatings, iconReview }

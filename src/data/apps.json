@@ -122,7 +122,7 @@
     "id": 8,
     "title": "Alarmy - Alarm Clock & Sleep",
     "companyName": "Delight Room Co.",
-    "description": "Alarmy is the world's most annoying alarm clock — in the best way. To dismiss the alarm, you must complete a mission like solving math problems or taking a photo of your bathroom. Never oversleep again with Alarmy.",
+    "description": "Alarmy is the world's most annoying alarm clock in the best way. To dismiss the alarm, you must complete a mission like solving math problems or taking a photo of your bathroom. Never oversleep again with Alarmy.",
     "size": 71.2,
     "reviews": 203400,
     "ratingAvg": 4.5,
@@ -252,6 +252,91 @@
       { "name": "3 star", "count": 10200 },
       { "name": "4 star", "count": 46000 },
       { "name": "5 star", "count": 96500 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Headspace: Meditation & Sleep",
+    "companyName": "Headspace Inc.",
+    "description": "Headspace makes meditation and mindfulness accessible to everyone. With hundreds of guided sessions for stress, sleep, focus, and anxiety, Headspace helps you build a daily practice that improves mental health and wellbeing.",
+    "size": 67.4,
+    "reviews": 231500,
+    "ratingAvg": 4.8,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 65000 },
+      { "name": "5 star", "count": 152900 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Calm - Sleep & Meditation",
+    "companyName": "Calm.com Inc.",
+    "description": "Calm is the #1 app for sleep and meditation. Join the millions experiencing better sleep, lower stress, and less anxiety with our guided meditations, sleep stories, breathing programs, stretching exercises, and relaxing music.",
+    "size": 72.1,
+    "reviews": 198700,
+    "ratingAvg": 4.7,
+    "downloads": 10500000,
+    "ratings": [
+      { "name": "1 star", "count": 950 },
+      { "name": "2 star", "count": 2200 },
+      { "name": "3 star", "count": 9800 },
+      { "name": "4 star", "count": 58000 },
+      { "name": "5 star", "count": 127750 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Duolingo - Language Lessons",
+    "companyName": "Duolingo Inc.",
+    "description": "Duolingo is the world's most popular language-learning platform. Learn Spanish, French, German, Japanese, and 30+ other languages through fun, bite-sized lessons. Earn points, unlock levels, and maintain your streaks.",
+    "size": 55.9,
+    "reviews": 312000,
+    "ratingAvg": 4.9,
+    "downloads": 14000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 82000 },
+      { "name": "5 star", "count": 219600 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Fabulous - Daily Habit Tracker",
+    "companyName": "TheFabulous.co",
+    "description": "Fabulous is a science-based app that builds healthy rituals into your life, just like athletes use rituals to get into peak performance mode. Build habits like exercise, drinking water, meditation, and more with guided coaching.",
+    "size": 41.3,
+    "reviews": 87600,
+    "ratingAvg": 4.6,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 870 },
+      { "name": "2 star", "count": 1950 },
+      { "name": "3 star", "count": 7800 },
+      { "name": "4 star", "count": 24000 },
+      { "name": "5 star", "count": 52980 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Microsoft To Do - Task Manager",
+    "companyName": "Microsoft Corporation",
+    "description": "Microsoft To Do is a task management app that helps you stay organized and manage your day-to-day tasks. Create smart daily lists, set reminders, and sync across all your devices. Integrated with Microsoft 365 for seamless productivity.",
+    "size": 48.6,
+    "reviews": 267300,
+    "ratingAvg": 4.7,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 2800 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 72000 },
+      { "name": "5 star", "count": 180200 }
     ]
   }
 ]
