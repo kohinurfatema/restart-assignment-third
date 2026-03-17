@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "title": "Forest: Focus For Productivity",
+    "companyName": "Seekrtech",
+    "description": "Forest is an app helping you stay away from your smartphone and stay focused. If you want to take a break from your phone or start focusing, plant a tree. The tree will grow while you focus. If you cannot resist using your phone, the tree will wither.",
+    "size": 45.2,
+    "reviews": 128450,
+    "ratingAvg": 4.9,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 90300 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "productive.io",
+    "description": "SmPlan is a smart to-do list and task manager app with reminders and recurring tasks. Organize your tasks with priority levels, set due dates, and get timely reminders. SmPlan helps you stay on top of your daily tasks.",
+    "size": 28.7,
+    "reviews": 54000,
+    "ratingAvg": 4.9,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 37600 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "UIDesign Studio",
+    "description": "FLIP is a focus timer app where you place your phone face down to start a timer. It uses your phone's sensors to keep you focused. Study with friends using friend challenges and see how long everyone stays focused.",
+    "size": 38.5,
+    "reviews": 97200,
+    "ratingAvg": 4.8,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 5800 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 61400 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "PixelCraft Labs",
+    "description": "Pomocat is an adorable Pomodoro timer app featuring cute cat animations. Work in focused 25-minute intervals followed by short breaks. Track your productivity sessions and earn rewards as you complete more focus cycles.",
+    "size": 52.1,
+    "reviews": 76500,
+    "ratingAvg": 4.7,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 6200 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 46000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "TimeWise Inc",
+    "description": "Time Planner helps you plan your day with an intuitive timeline view. Schedule tasks, set priorities, track time spent on each activity. Visualize your day and optimize how you spend your most valuable resource — time.",
+    "size": 61.3,
+    "reviews": 89400,
+    "ratingAvg": 4.6,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 8500 },
+      { "name": "4 star", "count": 26000 },
+      { "name": "5 star", "count": 51900 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Morning Habits - Daily Routine",
+    "companyName": "HabitFlow Ltd",
+    "description": "Morning Habits helps you build powerful morning routines that set you up for success. Track your daily habits, set streaks, and get motivational notifications. A perfect companion for building a healthy and productive lifestyle.",
+    "size": 33.8,
+    "reviews": 112300,
+    "ratingAvg": 4.8,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 76500 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "GreenMind Apps",
+    "description": "Focus Plant combines Pomodoro technique with a virtual garden. Every completed focus session grows a new plant in your personal garden. Share your garden with friends and compete to grow the most beautiful productive garden.",
+    "size": 47.6,
+    "reviews": 68900,
+    "ratingAvg": 4.7,
+    "downloads": 6100000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 980 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 19500 },
+      { "name": "5 star", "count": 43200 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "companyName": "Delight Room Co.",
+    "description": "Alarmy is the world's most annoying alarm clock — in the best way. To dismiss the alarm, you must complete a mission like solving math problems or taking a photo of your bathroom. Never oversleep again with Alarmy.",
+    "size": 71.2,
+    "reviews": 203400,
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 4300 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 58000 },
+      { "name": "5 star", "count": 124000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Notion - Notes & Productivity",
+    "companyName": "Notion Labs Inc.",
+    "description": "Notion is an all-in-one workspace for notes, tasks, wikis, and databases. Build your own system with blocks, templates, and powerful customization. Works seamlessly across all your devices with real-time sync.",
+    "size": 34.7,
+    "reviews": 145600,
+    "ratingAvg": 4.7,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "3 star", "count": 9800 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 90200 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Todoist: To-Do List & Planner",
+    "companyName": "Doist Inc.",
+    "description": "Todoist is the world's #1 task manager. Capture tasks, set reminders, and organize projects with powerful features like recurring due dates, priority levels, and labels. Trusted by millions of professionals and families worldwide.",
+    "size": 42.9,
+    "reviews": 178500,
+    "ratingAvg": 4.8,
+    "downloads": 9200000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 48000 },
+      { "name": "5 star", "count": 120600 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Brain Focus Productivity Timer",
+    "companyName": "BrainApps Studio",
+    "description": "Brain Focus is a productivity timer based on the Pomodoro method. Block distracting apps, track your work sessions, and analyze your productivity patterns. Customize work and break intervals to match your ideal workflow.",
+    "size": 29.4,
+    "reviews": 93200,
+    "ratingAvg": 4.6,
+    "downloads": 5800000,
+    "ratings": [
+      { "name": "1 star", "count": 780 },
+      { "name": "2 star", "count": 1850 },
+      { "name": "3 star", "count": 7600 },
+      { "name": "4 star", "count": 27000 },
+      { "name": "5 star", "count": 55970 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Habit Tracker - Daily Goals",
+    "companyName": "RoutineKit Ltd.",
+    "description": "Habit Tracker is your personal habit coaching app. Define your goals, track daily progress, and visualize your consistency with beautiful charts. Build positive habits with smart reminders and motivational streak counts.",
+    "size": 25.6,
+    "reviews": 67800,
+    "ratingAvg": 4.7,
+    "downloads": 5100000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 1020 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 19500 },
+      { "name": "5 star", "count": 42030 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Focus@Will: Music Productivity",
+    "companyName": "Focus@Will Inc.",
+    "description": "Focus@Will uses neuroscience-based music channels scientifically proven to help you focus. Boost your concentration with curated music designed to match different working styles, from classical to electronic genres.",
+    "size": 58.3,
+    "reviews": 114700,
+    "ratingAvg": 4.5,
+    "downloads": 6400000,
+    "ratings": [
+      { "name": "1 star", "count": 1600 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 38000 },
+      { "name": "5 star", "count": 59900 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Structured - Daily Planner",
+    "companyName": "Maize Apps GmbH",
+    "description": "Structured is a beautiful visual daily planner that helps you organize your tasks and events on a timeline. Drag and drop tasks, set durations, and see your entire day at a glance. Simple, clean, and effective planning.",
+    "size": 36.1,
+    "reviews": 88600,
+    "ratingAvg": 4.8,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1350 },
+      { "name": "3 star", "count": 5500 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 56150 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Any.do: To-do List & Calendar",
+    "companyName": "Any.do Inc.",
+    "description": "Any.do combines your to-do list, calendar, planner, and reminders into one beautifully designed app. Plan your day with smart suggestions, collaborate with family and team, and never miss a deadline again.",
+    "size": 44.8,
+    "reviews": 156400,
+    "ratingAvg": 4.6,
+    "downloads": 8800000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 10200 },
+      { "name": "4 star", "count": 46000 },
+      { "name": "5 star", "count": 96500 }
+    ]
+  }
+]
