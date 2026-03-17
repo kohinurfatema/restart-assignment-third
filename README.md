@@ -1,16 +1,46 @@
-# React + Vite
+# HERO.IO — App Discovery Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Discover, install, and manage your favourite productivity and lifestyle apps — all in one place.
 
-Currently, two official plugins are available:
+## Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **React** — UI library
+- **Vite** — Build tool and dev server
+- **React Router DOM** — Client-side routing
+- **Recharts** — Ratings bar chart on App Details page
+- **React Toastify** — Install / Uninstall toast notifications
+- **CSS** — Custom styles, fully responsive
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Browse 20 apps on Home and All Apps pages
+- Live search (case-insensitive) and sort by downloads
+- App Details with Recharts ratings chart
+- Install button saves app to localStorage
+- My Installation page — view and uninstall saved apps, sort by size
+- Custom 404 error page and App Not Found page
+- Loading animation on every page navigation and search
+- Fully responsive for mobile, tablet, and desktop
 
-## Expanding the ESLint configuration
+## Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Route | Page |
+|-------|------|
+| `/` | Home |
+| `/apps` | All Apps |
+| `/apps/:id` | App Details |
+| `/installation` | My Installation |
+| `*` | 404 Error |
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
