@@ -1,0 +1,47 @@
+.error-page-wrapper {
+  background: #eef2f7;
+  min-height: 100vh;
+  padding: 40px 0;
+}
+
+.error-page {
+  background: #f8faff;
+  border-radius: 10px;
+  padding: 60px 32px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.error-page img {
+  width: 260px;
+  object-fit: contain;
+  margin-bottom: 28px;
+}
+
+.error-page h2 {
+  font-size: 26px;
+  font-weight: 800;
+  color: #1a1a2e;
+  margin-bottom: 12px;
+}
+
+.error-page p {
+  font-size: 15px;
+  color: #64748b;
+  margin-bottom: 28px;
+}
+
+.error-page button {
+  background: #6c4ef2;
+  color: #ffffff;
+  padding: 12px 36px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.error-page button:hover {
+  background: #5a3ed0;
+  transform: translateY(-1px);
+}

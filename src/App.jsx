@@ -6,6 +6,7 @@ import Home from './pages/Home/Home'
 import AllApps from './pages/AllApps/AllApps'
 import AppDetails from './pages/AppDetails/AppDetails'
 import MyInstallation from './pages/MyInstallation/MyInstallation'
+import ErrorPage from './pages/ErrorPage/ErrorPage'
 import Loading from './components/Loading/Loading'
 import './App.css'
 
@@ -29,6 +30,7 @@ function App() {
             <Route path="/apps"         element={<AllApps />} />
             <Route path="/apps/:id"     element={<AppDetails />} />
             <Route path="/installation" element={<MyInstallation />} />
+            <Route path="*"             element={<ErrorPage />} />
           </Routes>
         )}
       </main>
