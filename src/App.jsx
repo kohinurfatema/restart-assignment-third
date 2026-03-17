@@ -5,6 +5,7 @@ import Footer from './components/Footer/Footer'
 import Home from './pages/Home/Home'
 import AllApps from './pages/AllApps/AllApps'
 import AppDetails from './pages/AppDetails/AppDetails'
+import MyInstallation from './pages/MyInstallation/MyInstallation'
 import Loading from './components/Loading/Loading'
 import './App.css'
 
@@ -24,9 +25,10 @@ function App() {
       <main className="main-content">
         {loading ? <Loading /> : (
           <Routes>
-            <Route path="/"        element={<Home />} />
-            <Route path="/apps"    element={<AllApps />} />
-            <Route path="/apps/:id" element={<AppDetails />} />
+            <Route path="/"             element={<Home />} />
+            <Route path="/apps"         element={<AllApps />} />
+            <Route path="/apps/:id"     element={<AppDetails />} />
+            <Route path="/installation" element={<MyInstallation />} />
           </Routes>
         )}
       </main>
